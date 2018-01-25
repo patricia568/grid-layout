@@ -15,4 +15,5 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
+  font-family: 'Open Sans', sans-serif;
 }
