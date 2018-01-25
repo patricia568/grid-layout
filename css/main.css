@@ -21,3 +21,8 @@ html {
 body {
   margin: 0;
 }
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
